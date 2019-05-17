@@ -1,4 +1,4 @@
-# Linux操作系统下配置科学计算环境
+## Linux操作系统下配置科学计算环境
 ### 1. 可以选择安装Manjaro, Fedora, Linux Mint 其中的任意一种.我选择**Manjaro**
 ### 2. 安装SageMath
 ### 3. 安装Anaconda
@@ -9,7 +9,7 @@
 ### 8. 安装Julia
 ### 9. 安装vs code, texmacs
 
-# 似乎不可能学会这两种处理代数几何与交换代数的软件:
+## 似乎不可能学会这两种处理代数几何与交换代数的软件:
 ### 1. [Singular](https://www.singular.uni-kl.de/)
 
 ### 2. [Macaulay2](https://faculty.math.illinois.edu/Macaulay2/)
