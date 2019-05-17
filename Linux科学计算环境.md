@@ -1,5 +1,5 @@
 ## Linux操作系统下配置科学计算环境
-### 1. 可以选择安装Manjaro, Fedora, Linux Mint 其中的任意一种.我选择**Manjaro**
+### 1. 可以选择安装Manjaro, Fedora, Linux Mint 其中的任意一种.我选择*Manjaro*
 ### 2. 安装SageMath
 ### 3. 安装Anaconda
 ### 4. 安装[GAP](https://www.gap-system.org/)
